@@ -7,18 +7,21 @@ Analyze trends in housing availability in NYC between 2013 and 2023. Take into c
 # Team
 # The team has chosen team name Houseketeers, and is composed of (in alphabetical order by surname):
 
-# Elif Celebi
-# Zaineb Konialian
+Elif Celebi
+Zaineb Konialian
 Carlos Ortiz
 Talibah Timothy
-Background
+
+# Background
 Historically there was generally a negative correlation between housing prices and interest rates. However, in 2023 - 2024, there has been a positive correlation. What is driving housing prices to still remain high even though there are higher interest rates?
 
 # Files for instruction team review
 Final GitHub repository with our code and source files
+
 Write-up summary - Project proposal.docx (see (https://docs.google.com/document/d/17bhnvGpJXXbv0uKpuYwCl9vWoZq_a45wecZYsigpIYU/edit#heading=h.z6ne0og04bp5)) - this includes the team's Visualization, Analysis and Conclusion and Write-up summarizes our observations and implication on housing values.
 Slide Deck used during out presentation can be found here: https://docs.google.com/presentation/d/1d1L3Om8kEsws7-LqAilryggnqHugl5K2H7W6PoViepg/edit?usp=sharing
-Dependencies and Setup:
+
+# Dependencies and Setup:
 The team leveraged the following libraries for this project: shutil ZipFile matplotlib from bubbly squarify numpy pandas requests seaborn scipy.stats linregress pathlib used Path
 
 # Data Sourcing
