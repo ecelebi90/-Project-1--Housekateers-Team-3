@@ -5,10 +5,10 @@
 Analyze trends in housing availability in NYC between 2013 and 2023. Take into consideration regional and overall trends in employment/income, population, mortgage interest rates (to adjust for inflation), and metrics of housing real estate (units available, units in region, unit price average/median, etc.)
 
 # Team
-The team has chosen team name Houseketeers, and is composed of (in alphabetical order by surname):
+# The team has chosen team name Houseketeers, and is composed of (in alphabetical order by surname):
 
-Elif Celebi
-Zaineb Konialian
+# Elif Celebi
+# Zaineb Konialian
 Carlos Ortiz
 Talibah Timothy
 Background
