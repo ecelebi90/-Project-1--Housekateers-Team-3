@@ -7,9 +7,9 @@ Analyze trends in housing availability in NYC between 2013 and 2023. Take into c
 # Team
 # The team has chosen team name Houseketeers, and is composed of (in alphabetical order by surname):
 
-Elif Celebi
-Zaineb Konialian
-Carlos Ortiz
+Elif Celebi, 
+Zaineb Konialian, 
+Carlos Ortiz, 
 Talibah Timothy
 
 # Background
